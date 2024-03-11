@@ -17,7 +17,7 @@ public class Main {
 			
 			System.out.println("Enter your choice: ");
 			int choice = scanner.nextInt();
-			scanner.nextLine(); // Consume the newline character
+			scanner.nextLine();
 			
 			switch(choice) {
 			case 1:
